@@ -48,12 +48,12 @@
       },
       {
       "name": "OnionHen",
-      "filename": "OnionHEN-0.0.10.elf",
-      "url": "https://modgames44.github.io/ps5-payloads/OnionHEN-0.0.10.elf",
-      "source": "https://github.com/aydencharles/onionHEN/releases/tag/v0.0.10",
+      "filename": "OnionHEN-0.0.11.elf",
+      "url": "https://modgames44.github.io/ps5-payloads/OnionHEN-0.0.11.elf",
+      "source": "https://github.com/aydencharles/onionHEN/releases",
       "description": "★Caja de herramientas OnionHEN.",
-      "last_update": "17.08.2026",
-      "version": "v0.0.10"
+      "last_update": "22.08.2026",
+      "version": "v0.0.11"
     },
     {
       "name": "etaHEN-2.6B",
@@ -72,6 +72,15 @@
       "description": "★Actualizar APR-EMU para los juegos.",
       "last_update": "21.08.2026",
       "version": "v1"
+    },
+    {
+      "name": "webkit-autoloader-installer_v0.4.0",
+      "filename": "webkit-autoloader-installer_v0.4.0.elf",
+      "url": "https://modgames44.github.io/ps5-payloads/webkit-autoloader-installer_v0.4.0r.elf",
+      "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
+      "description": "★Actualizar APR-EMU para los juegos.",
+      "last_update": "22.08.2026",
+      "version": "v0.4.0"
     },
   ]
 }

@@ -12,12 +12,12 @@
     },
     {
       "name": "ShadowMountPlus",
-      "filename": "ShadowMountPlus-1.7alpha11.elf",
-      "url": "https://modgames44.github.io/ps5-payloads/ShadowMountPlus-1.7alpha11.elf",
+      "filename": "ShadowMountPlus_1.7alpha12",
+      "url": "https://modgames44.github.io/ps5-payloads/ShadowMountPlus_1.7alpha12.elf",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases",
       "description": "Payload automatizado para montar e instalar copias de juegos de PS5 sin herramientas externas.",
-      "last_update": "19.08.2026",
-      "version": "1.7alpha8"
+      "last_update": "28.08.2026",
+      "version": "1.7alpha12"
     },
     {
       "name": "BD-J_Unpatch",

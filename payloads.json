@@ -48,12 +48,12 @@
       },
       {
       "name": "OnionHen",
-      "filename": "OnionHEN-0.0.11.elf",
-      "url": "https://modgames44.github.io/ps5-payloads/OnionHEN-0.0.11.elf",
+      "filename": "OnionHEN-0.0.12.elf",
+      "url": "https://modgames44.github.io/ps5-payloads/OnionHEN-0.0.12.elf",
       "source": "https://github.com/aydencharles/onionHEN/releases",
       "description": "★Caja de herramientas OnionHEN.",
-      "last_update": "22.08.2026",
-      "version": "v0.0.11"
+      "last_update": "01.09.2026",
+      "version": "v0.0.12"
     },
     {
       "name": "etaHEN-2.6B",

@@ -91,5 +91,14 @@
       "last_update": "22.08.2026",
       "version": "v0.4.0"
     },
+    {
+      "name": "ps5upload-5.29.0",
+      "filename": "ps5upload-5.29.0.elf",
+      "url": "https://modgames44.github.io/ps5-payloads/ps5upload-5.29.0.elf",
+      "source": "https://github.com/phantomptr/ps5upload/releases",
+      "description": "Se trata de un sencillo servidor de sockets que redirige la salida de /dev/klog en consolas Playstation 4 y 5 con jailbreak a sockets conectados al puerto 3232.",
+      "last_update": "22.08.2026",
+      "version": "v0.4.0"
+    },
   ]
 }

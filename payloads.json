@@ -11,11 +11,29 @@
       "version": "v1.11"
     },
     {
+      "name": "Kstuff NG",
+      "filename": "kstuff NG.elf",
+      "url": "https://modgames44.github.io/ps5-payloads/kstuff-1.11.elf",
+      "source": "https://github.com/EchoStretch/kstuff-lite/releases",
+      "description": "Desbloqueador de juegos y apps, sin esto no juegas.",
+      "last_update": "11.08.2026",
+      "version": "NG"
+    },
+    {
       "name": "ShadowMountPlus",
       "filename": "ShadowMountPlus-1.7beta2.elf",
       "url": "https://modgames44.github.io/ps5-payloads/ShadowMountPlus-1.7beta2.elf",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases",
       "description": "Payload automatizado para montar e instalar copias de juegos de PS5 sin herramientas externas.",
+      "last_update": "21.09.2026",
+      "version": "1.7beta2"
+    },
+    {
+      "name": "ShadowMountPlus",
+      "filename": "ShadowMountPlus-1.7beta2-Debug.elf",
+      "url": "https://modgames44.github.io/ps5-payloads/ShadowMountPlus-1.7beta2-Debug.el",
+      "source": "https://github.com/modgames44/ps5-payloads",
+      "description": "Payload automatizado para montar e instalar copias de juegos de PS5 sin herramientas externas + Debug mode.",
       "last_update": "21.09.2026",
       "version": "1.7beta2"
     },
@@ -100,5 +118,5 @@
       "last_update": "22.08.2026",
       "version": "v0.4.0"
     },
-  ]
+   ]
 }

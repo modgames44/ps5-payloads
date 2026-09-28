@@ -35,7 +35,7 @@
       "source": "https://github.com/modgames44/ps5-payloads",
       "description": "Payload automatizado para montar e instalar copias de juegos de PS5 sin herramientas externas + Debug mode.",
       "last_update": "21.09.2026",
-      "version": "1.7beta2"
+      "version": "1.7beta2-Debug"
     },
     {
       "name": "BD-J_Unpatch",

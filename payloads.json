@@ -109,5 +109,14 @@
       "last_update": "22.08.2026",
       "version": "v0.4.0"
     },
+    {
+      "name": "OmniPad-PS5-1.0.4",
+      "filename": "OmniPad-PS5-1.0.4.elf",
+      "url": "https://modgames44.github.io/ps5-payloads/OmniPad-PS5-1.0.4.elf",
+      "source": "https://github.com/diegobarbosaa/OmniPad-PS5/releases",
+      "description": "conectar cualquier control al ps5 mediante cable",
+      "last_update": "06.10.2026",
+      "version": "v1.0.4"
+    },
    ]
 }
